@@ -7,7 +7,7 @@ This project is made so you can generate any random password that you can use fo
  you can clone code from repository in github link and bring it down to your local drive. From thier you can use visual studio code as your ide or any other is fine.then open in browser.
 ## Usage
  clone the repo from https://github.com/johnbatista1223/Password-Key-generator you can use visual studio code as ide then open in google chrome or any browser.
- <img src="passwordGpic.png" alt="generated button" width 300>
+ <img src="passwordGpic.png" width= 300>
 
 ## License
 MIT License
